@@ -1,4 +1,5 @@
-# lzzhen
+# Epileptic Seizure Classification
+# by lzzhen
 
 Dataset:
 (1) Bonn dataset has been used in the experiment is from the EEG database of the Epilepsy Research Center of the University of Bonn, Germany.
